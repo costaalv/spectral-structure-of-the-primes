@@ -61,7 +61,7 @@ A peça encena um diálogo entre grandes nomes da ciência — Gauss, Riemann, D
 O texto é provocativo, bem-humorado e rigoroso, pensado para aproximar a matemática profunda de um público mais amplo, sem abrir mão da substância científica.
 
 Texto completo em português: [`reflexo_estrutura_pt.pdf`](docs/pt/reflexo_estrutura.pdf)
-Texto em inglês (versão revisada): [`reflexion_structure.pdf`](docs/reflection_structure.pdf)
+Texto em inglês (versão revisada): [`reflection_structure.pdf`](docs/reflection_structure.pdf)
 
 ---
 

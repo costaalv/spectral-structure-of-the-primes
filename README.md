@@ -62,7 +62,7 @@ The play stages a fictional dialogue between great minds — Gauss, Riemann, Dir
 It is rigorous, provocative, and playful, designed to bridge deep mathematics and a broader audience.
 
 - Full script in Portuguese: [`reflexo_estrutura_pt.pdf`](docs/reflexo_estrutura.pdf)
-- English version (revised): [`reflexion_structure.pdf`](docs/reflexion_structure.pdf)
+- English version (revised): [`reflection_structure.pdf`](docs/reflection_structure.pdf)
 
 ---
 
