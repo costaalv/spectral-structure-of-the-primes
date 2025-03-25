@@ -17,12 +17,12 @@ Toda a estrutura espectral dos primos já está presente em $\pi(x)$ e em sua en
 
 | Arquivo                             | Descrição |
 |------------------------------------|-----------|
-| `01_funcao_contagem_primos.ipynb`  | Decomposição natural de $\pi(x)$ em primos estruturadores e estabilizadores. |
-| `02_energia_primos.ipynb`          | Análise energética dos primos via soma logarítmica e definição da função $F_E(x)$. |
-| `03_identidade_assintotica.ipynb`  | Equivalência estrutural entre $F(x)$ e $F_E(x)$ – a Identidade Assintótica de Riemann. |
-| `04_reconstrucao_espectral.ipynb`  | Reconstrução de $F_E(x)$ a partir dos zeros da função zeta. |
-| `05_matriz_hermitiana_a_partir_das_oscilações_dos_primos.ipynb` | Construção da matriz hermitiana de cossenos que gera os zeros como autovalores. |
-| `06_funcao_onda.ipynb`             | Interpretação quântica da estrutura dos primos via função de onda e operador hermitiano. |
+| [`01_funcao_contagem_primos.ipynb`](notebooks/pt/01_funcao_contagem_primos.ipynb)  | Decomposição natural de $\pi(x)$ em primos estruturadores e estabilizadores. |
+| [`02_energia_primos.ipynb`](notebooks/pt/02_energia_primos.ipynb)          | Análise energética dos primos via soma logarítmica e definição da função $F_E(x)$. |
+| [`03_identidade_assintotica.ipynb`](notebooks/pt/03_identidade_assintotica.ipynb)  | Equivalência estrutural entre $F(x)$ e $F_E(x)$ – a Identidade Assintótica de Riemann. |
+| [`04_reconstrucao_espectral.ipynb`](notebooks/pt/04_reconstrucao_espectral.ipynb)  | Reconstrução de $F_E(x)$ a partir dos zeros da função zeta. |
+| [`05_matriz_hermitiana_a_partir_das_oscilações_dos_primos.ipynb`](notebooks/pt/05_matriz_hermitiana_a_partir_das_oscilações_dos_primos.ipynb) | Construção da matriz hermitiana de cossenos que gera os zeros como autovalores. |
+| [`06_funcao_onda.ipynb`](notebooks/pt/06_funcao_onda.ipynb)             | Interpretação quântica da estrutura dos primos via função de onda e operador hermitiano. |
 
 ---
 

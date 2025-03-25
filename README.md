@@ -20,12 +20,12 @@ The zeta zeros merely reflect this hidden arithmetic organization.
 
 | File                                   | Description |
 |----------------------------------------|-------------|
-| `01_prime_counting_function.ipynb`     | Natural decomposition of $\pi(x)$ into structuring and stabilizing primes. |
-| `02_prime_energy.ipynb`                | Energy analysis of the primes via logarithmic sum and definition of $F_E(x)$. |
-| `03_asymptotic_identity.ipynb`         | Structural equivalence between $F(x)$ and $F_E(x)$ – the Asymptotic Identity of Riemann. |
-| `04_spectral_reconstruction.ipynb`     | Spectral reconstruction of $F_E(x)$ from the Riemann zeta function zeros. |
-| `05_hermitian_matrix_from_prime_oscillations.ipynb` | Construction of the cosine Hermitian matrix that generates the zeros as eigenvalues. |
-| `06_wave_function.ipynb`               | Quantum interpretation of the prime structure via wave function and Hermitian operator. |
+| [`01_prime_counting_function.ipynb`](notebooks/en/01_prime_counting_function.ipynb)     | Natural decomposition of $\pi(x)$ into structuring and stabilizing primes. |
+| [`02_prime_energy.ipynb`](notebooks/en/02_prime_energy.ipynb)                | Energy analysis of the primes via logarithmic sum and definition of $F_E(x)$. |
+| [`03_asymptotic_identity.ipynb`](notebooks/en/03_asymptotic_identity.ipynb)         | Structural equivalence between $F(x)$ and $F_E(x)$ – the Asymptotic Identity of Riemann. |
+| [`04_spectral_reconstruction.ipynb`](notebooks/en/04_spectral_reconstruction.ipynb)     | Spectral reconstruction of $F_E(x)$ from the Riemann zeta function zeros. |
+| [`05_hermitian_matrix_from_prime_oscillations.ipynb`](notebooks/en/05_hermitian_matrix_from_prime_oscillations.ipynb) | Construction of the cosine Hermitian matrix that generates the zeros as eigenvalues. |
+| [`06_wave_function.ipynb`](notebooks/en/06_wave_function.ipynb)               | Quantum interpretation of the prime structure via wave function and Hermitian operator. |
 
 ---
 
