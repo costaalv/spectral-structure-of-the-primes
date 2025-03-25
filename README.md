@@ -45,7 +45,7 @@ All code is released under the **MIT License**, enabling broad reuse, reproducib
 ## Article and Documentation
 
 - Article in Portuguese: [`zeros_riemann_pt.pdf`](docs/pt/zeros_riemann_pt.pdf)
-- Article in English: [`zeros_riemann_en.pdf`](docs/pt/zeros_riemann_en.pdf)
+- Article in English: [`zeros_riemann_en.pdf`](docs/en/zeros_riemann_en.pdf)
 
 For detailed explanations, visuals, and mathematical justifications, [see the full article](zenodo_link).
 
@@ -61,8 +61,8 @@ The play stages a fictional dialogue between great minds — Gauss, Riemann, Dir
 
 It is rigorous, provocative, and playful, designed to bridge deep mathematics and a broader audience.
 
-- Full script in Portuguese: [`reflexo_estrutura_pt.pdf`](docs/reflexo_estrutura.pdf)
-- English version (revised): [`reflection_structure.pdf`](docs/reflection_structure.pdf)
+- Full script in Portuguese: [`reflexo_estrutura_pt.pdf`](docs/pt/reflexo_estrutura.pdf)
+- English version (revised): [`reflection_structure.pdf`](docs/en/reflection_structure.pdf)
 
 ---
 
