@@ -54,7 +54,7 @@ Para explicações detalhadas, gráficos e justificativas matemáticas, [consult
 
 Como forma de divulgar e celebrar a descoberta, criamos também uma peça teatral:
 
-**“Do Reflexo à Estrutura: A Verdade por Trás da Hipótese de Riemann”**
+**“15 Cenas Matemáticas para Desvendar o Mistério dos Números Primos”**
 
 A peça encena um diálogo entre grandes nomes da ciência — Gauss, Riemann, Dirichlet, Schrödinger — em torno da estrutura espectral dos números primos.
 

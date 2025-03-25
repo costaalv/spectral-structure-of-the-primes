@@ -55,7 +55,7 @@ For detailed explanations, visuals, and mathematical justifications, [see the fu
 
 To celebrate and communicate the findings, we’ve also created a theatrical piece:
 
-**“From Reflection to Structure: The Truth Behind the Riemann Hypothesis”**
+**“15 Mathematical Scenes to Uncover the Prime Number Mystery”**
 
 The play stages a fictional dialogue between great minds — Gauss, Riemann, Dirichlet, Schrödinger — around the spectral structure of prime numbers.
 
