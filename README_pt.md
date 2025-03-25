@@ -43,10 +43,10 @@ Todo o código está licenciado sob a **MIT License**, permitindo reuso amplo, r
 
 ## Artigo e Documentação
 
-- Artigo em português: [`zeros_riemann_pt.pdf`](./zeros_riemann_pt.pdf)
-- Artigo em inglês: [`zeros_riemann_en.pdf`](./zeros_riemann_en.pdf)
+- Artigo em português: [`zeros_riemann_pt.pdf`](.docs/pt/zeros_riemann_pt.pdf)
+- Artigo em inglês: [`zeros_riemann_en.pdf`](.docs/pt/zeros_riemann_en.pdf)
 
-Para explicações detalhadas, gráficos e justificativas matemáticas, [consulte o artigo completo](link zenodo).
+Para explicações detalhadas, gráficos e justificativas matemáticas, [consulte o artigo completo](https://zenodo.org/records/15082816).
 
 ---
 
@@ -60,8 +60,8 @@ A peça encena um diálogo entre grandes nomes da ciência — Gauss, Riemann, D
 
 O texto é provocativo, bem-humorado e rigoroso, pensado para aproximar a matemática profunda de um público mais amplo, sem abrir mão da substância científica.
 
-Texto completo em português: [`reflexo_estrutura_pt.pdf`](./reflexo_estrutura.pdf)
-Texto em inglês (versão revisada): [`reflexion_structure.pdf`](./reflexion_structure.pdf)
+Texto completo em português: [`reflexo_estrutura_pt.pdf`](.docs/reflexo_estrutura.pdf)
+Texto em inglês (versão revisada): [`reflexion_structure.pdf`](.docs/reflexion_structure.pdf)
 
 ---
 
