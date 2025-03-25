@@ -1,6 +1,8 @@
 # The Spectral Structure of Prime Numbers
 **The Zeros Do Not Create — They Record**
 
+[Clique aqui para ler este README em português](README_pt.md)
+
 ## Overview
 
 This repository contains all notebooks, scripts, and data used in the article:
