@@ -23,6 +23,7 @@ Toda a estrutura espectral dos primos já está presente em $\pi(x)$ e em sua en
 | [`04_reconstrucao_espectral.ipynb`](notebooks/pt/04_reconstrucao_espectral.ipynb)  | Reconstrução de $F_E(x)$ a partir dos zeros da função zeta. |
 | [`05_matriz_hermitiana_a_partir_das_oscilações_dos_primos.ipynb`](notebooks/pt/05_matriz_hermitiana_a_partir_das_oscilações_dos_primos.ipynb) | Construção da matriz hermitiana de cossenos que gera os zeros como autovalores. |
 | [`06_funcao_onda.ipynb`](notebooks/pt/06_funcao_onda.ipynb)             | Interpretação quântica da estrutura dos primos via função de onda e operador hermitiano. |
+| ['07_dualidade_espectro.ipynb'](notebooks/pt/07_dualidade_espectro.ipynb) | Os zeros da zeta emergem naturalmente da matriz hermitiana baseada em $\Delta_\pi(x)$ — sem uso da função zeta. |
 
 ---
 
