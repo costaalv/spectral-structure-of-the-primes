@@ -26,7 +26,7 @@ The zeta zeros merely reflect this hidden arithmetic organization.
 | [`04_spectral_reconstruction.ipynb`](notebooks/en/04_spectral_reconstruction.ipynb)     | Spectral reconstruction of $F_E(x)$ from the Riemann zeta function zeros. |
 | [`05_hermitian_matrix_from_prime_oscillations.ipynb`](notebooks/en/05_hermitian_matrix_from_prime_oscillations.ipynb) | Construction of the cosine Hermitian matrix that generates the zeros as eigenvalues. |
 | [`06_wave_function.ipynb`](notebooks/en/06_wave_function.ipynb)               | Quantum interpretation of the prime structure via wave function and Hermitian operator. |
-| [07_dualidade_espectro.ipynb](notebooks/pt/07_duality_spectrum.ipynb) | Emergence of zeta zeros from the Hermitian matrix built with $\Delta_\pi(x)$, without using the zeta function. |
+| ['07_dualidade_espectro.ipynb'](notebooks/en/07_duality_spectrum.ipynb) | Emergence of zeta zeros from the Hermitian matrix built with $\Delta_\pi(x)$, without using the zeta function. |
 
 
 ---
